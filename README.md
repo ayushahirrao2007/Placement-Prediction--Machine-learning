@@ -213,9 +213,3 @@ This project is created for **educational purposes**.
 A student's actual placement depends on many factors that may not be represented in this dataset. Therefore, the model's prediction should not be considered a guarantee of placement.
 
 ---
-
-## 👨‍💻 Author
-
-AI & Machine Learning Enthusiast
-
-[GitHub](https://github.com/ayushahirrao2007)
