@@ -216,8 +216,6 @@ A student's actual placement depends on many factors that may not be represented
 
 ## 👨‍💻 Author
 
-**Ayush Ahirrao**
-
 AI & Machine Learning Enthusiast
 
 [GitHub](https://github.com/ayushahirrao2007)
